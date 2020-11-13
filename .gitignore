@@ -18,7 +18,11 @@ target/
 *.iws
 *.iml
 *.ipr
-
+out
+gen
+data
+.DS_Store
+LOG_PATH_IS_UNDEFINED
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
